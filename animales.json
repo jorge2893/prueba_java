@@ -1,0 +1,36 @@
+{
+  "animales": [
+    {
+      "name": "Leon",
+      "imagen": "Leon.png",
+      "sonido":"Rugido.mp3",
+      "tipo":"Felino"
+    },
+    {
+      "name": "Lobo",
+      "imagen": "Lobo.jpg",
+      "sonido":"Aullido.mp3",
+      "tipo": "Canino"
+    },
+    {
+      "name": "Oso",
+      "imagen": "Oso.jpg",
+      "sonido":"Gruñido.mp3",
+      "tipo": "Ursidae"
+      
+    },
+    {
+      "name": "Serpiente",
+      "imagen": "Serpiente.jpg",
+      "sonido":"Siseo.mp3",
+      "tipo": "Reptil"
+    },
+    {
+      "name": "Aguila",
+      "imagen": "Aguila.png",
+      "sonido":"Chillido.mp3",
+      "tipo": "Ave de Presa"
+    }
+   
+  ]
+}
